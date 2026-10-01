@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="pl-PL">
 <head>
     <meta charset="utf-8">
@@ -37,7 +37,6 @@
         <font color="red" size="7" face="Arial">Skielet zaliczeniowy JavaScript, wykonal: Ivan Halyna 3F</font>
     </p>
 
-    <p style="font-size:2cm;">Ivan Halyna</p>
 
     <form>
         <input type="button" name="zadanie4" value="zadanie1-Halyna" onclick="WinOpen_z1(' ')">
